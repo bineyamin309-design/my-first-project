@@ -1,1 +1,2 @@
 "Hello GitHub! This is my first push." 
+I am learning GitHub and this is my first update!
